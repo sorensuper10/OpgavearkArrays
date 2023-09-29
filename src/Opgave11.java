@@ -20,5 +20,5 @@ public class Opgave11 {
 
         return -low - 1; // Now high < low
     }
-
 }
+
